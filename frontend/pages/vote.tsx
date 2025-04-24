@@ -1,0 +1,1 @@
+// Voting page with governance contract interaction

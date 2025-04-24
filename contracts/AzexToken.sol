@@ -1,0 +1,1 @@
+// Complete ERC20 implementation with mint and burn

@@ -1,0 +1,1 @@
+// Fully working staking contract with reward logic

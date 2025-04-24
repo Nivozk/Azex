@@ -1,0 +1,1 @@
+// Script for deploying all contracts on local/test networks
